@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+body {
+  background: #5ec3b8;
+}
+
+canvas {
+  position: fixed;
+  inset: 0;
+  cursor: none;
+}
